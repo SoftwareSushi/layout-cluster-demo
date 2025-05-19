@@ -6,6 +6,15 @@ A powerful Jupyter/Colab notebook for automatically detecting and analyzing the 
 
 This project provides an interactive notebook for analyzing PDF documents to identify different layout elements like text blocks, titles, tables, figures, and lists. It leverages computer vision and pre-trained models to extract document structure without manual annotation, all within a user-friendly Jupyter/Colab interface.
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="resources/sample-layout.png" alt="Sample Layout" width="400"/></td>
+      <td><img src="resources/sample-layout-2.png" alt="Sample Layout 2" width="400"/></td>
+    </tr>
+  </table>
+</div>
+
 ## Features
 
 - **Automated layout detection** using state-of-the-art deep learning models
