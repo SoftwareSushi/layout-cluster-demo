@@ -52,26 +52,28 @@ cd layout-cluster-demo
 ## Usage
 
 <div align="center">
-  <img src="resources/usage-animation.gif" alt="Usage Animation" width="800"/>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Google Colab Notebook</h3>
+        <p>The easiest way to use this tool is through our Google Colab notebook, which provides an interactive interface with form widgets for all parameters.</p>
+        <p><a href="https://colab.research.google.com/drive/1fB5F2x6BIL2qobLFb_egExUewa9j4Ihr?usp=sharing">Open in Google Colab</a></p>
+        <h3>Local Jupyter Notebook</h3>
+        <p>If you prefer to run the notebook locally:</p>
+        <ol>
+          <li>Install the requirements as shown above</li>
+          <li>Start Jupyter Notebook in the project directory:</li>
+          <pre><code>jupyter notebook</code></pre>
+          <li>Open <code>Document_Layout.ipynb</code></li>
+          <li>Follow the instructions in the notebook and use the interactive widgets</li>
+        </ol>
+      </td>
+      <td width="50%">
+        <img src="resources/usage-animation.gif" alt="Usage Animation" width="350"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-### Google Colab Notebook
-
-The easiest way to use this tool is through our Google Colab notebook, which provides an interactive interface with form widgets for all parameters.
-
-[Open in Google Colab](https://colab.research.google.com/drive/1fB5F2x6BIL2qobLFb_egExUewa9j4Ihr?usp=sharing)
-
-### Local Jupyter Notebook
-
-If you prefer to run the notebook locally:
-
-1. Install the requirements as shown above
-2. Start Jupyter Notebook in the project directory:
-   ```bash
-   jupyter notebook
-   ```
-3. Open `Document_Layout.ipynb`
-4. Follow the instructions in the notebook and use the interactive widgets
 
 ## Available Models
 
