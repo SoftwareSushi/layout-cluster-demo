@@ -26,9 +26,6 @@ For local Jupyter usage:
 # Clone the repository
 git clone https://github.com/SoftwareSushi/layout-cluster-demo.git
 cd layout-cluster-demo
-
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ### Requirements
