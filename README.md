@@ -51,6 +51,10 @@ cd layout-cluster-demo
 
 ## Usage
 
+<div align="center">
+  <img src="resources/usage-animation.gif" alt="Usage Animation" width="800"/>
+</div>
+
 ### Google Colab Notebook
 
 The easiest way to use this tool is through our Google Colab notebook, which provides an interactive interface with form widgets for all parameters.
